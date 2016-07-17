@@ -43,7 +43,7 @@ Potsdam III	IRTF***	t2trg	Thing-to-Thing
 | 16:30 | (Chairs)                 | Summary from RIOT Summit                           | [RIOT-SUMMIT][]       |
 | 16:45 | Hannes, Stephen, Carsten | Summary from IOTSU IAB Workshop                    | [IOTSU][]             |
 | 17:15 | Matthias Kovatsch        | Update from W3C WoT IG and WG                      |                       |
-| 17:35 | (Authors)                | T2TRG documents                                    | [several][T2TRG-docs] |
+| 17:30 | (Authors)                | T2TRG documents                                    | [several][T2TRG-docs] |
 | 17:50 | Tibor Pardi              | Secure, decentralized, blockchain based IoT (talk) |                       |
 | 18:10 | (Chairs)                 | Future activities                                  |                       |
 
